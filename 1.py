@@ -1,3 +1,5 @@
+#just checking if the branch has the changes
+
 print("Project 2")
 
 # change dh table according to the model, transition jacobian can be calculated from this code 
@@ -176,12 +178,12 @@ plt.grid(True)
 plt.plot(x_values, z_values)
 plt.show()
 
-# 3D Plot
-fig = plt.figure()
-ax = fig.add_subplot(111, projection='3d')
-ax.plot(x_values, y_values, z_values, label='End Effector Trajectory')
-ax.set_xlabel('X')
-ax.set_ylabel('Y')
-ax.set_zlabel('Z')
-ax.set_title('Circle Trajectory')
-plt.show()
+# # 3D Plot
+# fig = plt.figure()
+# ax = fig.add_subplot(111, projection='3d')
+# ax.plot(x_values, y_values, z_values, label='End Effector Trajectory')
+# ax.set_xlabel('X')
+# ax.set_ylabel('Y')
+# ax.set_zlabel('Z')
+# ax.set_title('Circle Trajectory')
+# plt.show()
