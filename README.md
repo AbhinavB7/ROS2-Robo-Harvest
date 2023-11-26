@@ -1,4 +1,4 @@
-# ROS2-Fruit-Picker
+# ROS2-Robo-Harvest
 
 Project Goal :
 
