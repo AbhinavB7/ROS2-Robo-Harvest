@@ -20,3 +20,6 @@ Workflow overview :
 5. Dropping the fruit into the basket.
 6. Check if the fruit is plucked.
 7. Data log into the Database.
+
+
+Softwares used Solidworks, ROS2, Gazebo, RVIZ
