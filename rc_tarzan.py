@@ -14,7 +14,7 @@ from pynput import keyboard
 # Define key codes
 LIN_VEL_STEP_SIZE = 6
 LEFT_STEP_SIZE = 3
-RIGHT_STEP_SIZE = 3
+RIGHT_STEP_SIZE = 2
 
 class KeyboardControlNode(Node):
 
